@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student at [PRIS](http://www.pris.net.cn/) Lab, Beijing University of Posts and Telecommunications(https://www.bupt.edu.cn/), supervised by Prof. [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang). 
+I am currently a master student at [PRIS](http://www.pris.net.cn/) Lab, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), supervised by Prof. [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang). 
+
 My research focuses on Computer Vision, espically interested on super-resolution, neural video delivery, object detection, pose estimation, and efficient deep learning.
+
+<font color=Red>Now I am actively finding a Ph.D. position, please contact me if you are interested. </font>
 
 {% include base_path %}
 
