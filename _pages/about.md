@@ -14,9 +14,9 @@ My research focuses on Computer Vision, espically interested on super-resolution
 
 <font color=Red>Now I am actively finding a Ph.D. position, please contact me if you are interested. </font>
 
+<br/>
 
 {% include base_path %}
-
 
 Education
 ======
