@@ -29,14 +29,18 @@ Education
 
 Internship
 ======
-* **Intel labs China (Mar 2020 - Feb 2021)**
+* **Intel labs China**
 	* 3D Human Motion Capture (Transfer to [3D Athlete Tracking](https://www.intel.cn/content/www/cn/zh/sports/olympic-games/3dat.html))
 	* Image Restoration (Super-resolution, Denoising)
 	* Neural Video Delivery
 
-* **SenseTime (Dec 2021 - now)**
+* **SenseTime**
 	* Deep Image Compression
 	* Image Coding for Machine
+
+* **OPPO Research Institute**
+	* Dynamic neural network
+	* Image Restoration (Super-resolution, Denoising)
 
 Publications
 ======
