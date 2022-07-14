@@ -46,8 +46,11 @@ Publications
 ======
 * **Adaptive Patch Exiting for Scalable Single Image Super-Resolution**
 	* **Shizun Wang**, Ming Lu, Kaixin Chen, Xiaoqi Li, Jiaming Liu, Yandong Guo
-	* European Conference on Computer Vision (**ECCV**), 2022
+	* European Conference on Computer Vision (**ECCV**), 2022 **(Oral)**
 
+* **Efficient Meta-Tuning for Content-aware Neural Video Delivery**
+	* Xiaoqi Li, Jiaming Liu, **Shizun Wang**, Cheng Lyu, Ming Lu, Yurong Chen, Anbang Yao, Shanghang Zhang, Yandong Guo
+	* European Conference on Computer Vision (**ECCV**), 2022
 * **[SamplingAug: On the Importance of Patch Sampling Augmentation for Single Image Super-Resolution](https://arxiv.org/abs/2111.15185)**
 	* **Shizun Wang**, Ming Lu, Kaixin Chen, Jiaming Liu, Xiaoqi Li, Ming Wu
 	* The British Machine Vision Conference (**BMVC**), 2021
