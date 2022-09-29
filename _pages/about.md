@@ -42,17 +42,21 @@ Internship
 	* Dynamic neural network
 	* Learn-based Visual Synthesis
 
+* **ByteDance**
+	* Generative models
+	* 3D vision
+
 Publications
 ======
 * **[Adaptive Patch Exiting for Scalable Single Image Super-Resolution](https://arxiv.org/abs/2203.11589)**
 	* **Shizun Wang**, Jiaming Liu, Kaixin Chen, Xiaoqi Li, Ming Lu, Yandong Guo
 	* European Conference on Computer Vision (**ECCV**), 2022 **(Oral)**
-	* \[[Paper](https://arxiv.org/pdf/2203.11589.pdf)\]  \[Code](https://github.com/littlepure2333/APE)\]
+	* \[[Paper](https://arxiv.org/pdf/2203.11589.pdf)\]  \[[Code](https://github.com/littlepure2333/APE)\]
 
 * **[Efficient Meta-Tuning for Content-aware Neural Video Delivery](https://arxiv.org/abs/2207.09691)**
 	* Xiaoqi Li, Jiaming Liu, **Shizun Wang**, Cheng Lyu, Ming Lu, Yurong Chen, Anbang Yao, Yandong Guo, Shanghang Zhang
 	* European Conference on Computer Vision (**ECCV**), 2022
-	* \[[Paper](https://arxiv.org/pdf/2207.09691.pdf)\]  \[Code](https://github.com/Neural-video-delivery/EMT-Pytorch-ECCV2022)\]
+	* \[[Paper](https://arxiv.org/pdf/2207.09691.pdf)\]  \[[Code](https://github.com/Neural-video-delivery/EMT-Pytorch-ECCV2022)\]
 
 * **[SamplingAug: On the Importance of Patch Sampling Augmentation for Single Image Super-Resolution](https://arxiv.org/abs/2111.15185)**
 	* **Shizun Wang**, Ming Lu, Kaixin Chen, Jiaming Liu, Xiaoqi Li, Ming Wu
