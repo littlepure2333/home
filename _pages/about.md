@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student at [PRIS](http://www.pris.net.cn/) Lab, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), supervised by Prof. [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang). 
+I am currently a third-year graduate student at [PRIS](http://www.pris.net.cn/) Lab, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), supervised by Prof. [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang). 
 
 My research focuses on Computer Vision, espically interested on learning-based visual synthesis.
 
@@ -44,10 +44,18 @@ Internship
 
 * **ByteDance**
 	* Generative models
-	* 3D vision
+	* Avatars
+	* AIGC
 
 Publications
 ======
+
+* **[SwiftAvatar: Efficient Auto-Creation of Parameterized Stylized Character on Arbitrary Avatar Engines](https://arxiv.org/abs/2301.08153)**
+	* **Shizun Wang**, Weihong Zeng, Xu Wang, Hao Yang, Li Chen, Yi Yuan, Yunzhao Zeng, Min Zheng, Chuang Zhang, Ming Wu
+	* AAAI Conference on Artificial Intelligence (**AAAI**), 2023 **(Oral)**
+	* \[[Paper](https://arxiv.org/pdf/2301.08153.pdf)\] 
+
+
 * **[Adaptive Patch Exiting for Scalable Single Image Super-Resolution](https://arxiv.org/abs/2203.11589)**
 	* **Shizun Wang**, Jiaming Liu, Kaixin Chen, Xiaoqi Li, Ming Lu, Yandong Guo
 	* European Conference on Computer Vision (**ECCV**), 2022 **(Oral)**
