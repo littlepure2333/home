@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year graduate student at [PRIS](http://www.pris.net.cn/) Lab, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), supervised by Prof. [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang). 
+I am currently a first-year Ph.D student at the amazing [LV Lab](http://lv-nus.org/) @ [NUS](https://www.nus.edu.sg/) supervised by Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Before joing LV Lab, I completed my B.E and M.S in [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), where I worked in [PRIS](http://www.pris.net.cn/) Lab，under the supervision of Prof. [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang). 
 
 My research focuses on Computer Vision, espically interested on learning-based visual synthesis.
 
-<font color=Red>Now I am actively finding a Ph.D. position, please contact me if you are interested. </font>
 
 <br/>
 
@@ -20,10 +19,14 @@ My research focuses on Computer Vision, espically interested on learning-based v
 
 Education
 ======
-* **Beijing University of Posts and Telecommunications, China (Sep. 2020 - Now)**
-	* M.S., Computer Vision
-	* Advisor: [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang)
-* **Beijing University of Posts and Telecommunications, China (Sep. 2016 - Jun 2020)**
+* **National University of Posts and Telecommunications, Singapore (Aug. 2023 - Now)**
+	* Ph.D., Electrical & Computer Engineering
+	* Supervisor: [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)
+
+* **Beijing University of Posts and Telecommunications, China (Sep. 2020 - Jun. 2023)**
+	* M.S., Information & Communication Engineering
+	* Supervisor: [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang)
+* **Beijing University of Posts and Telecommunications, China (Sep. 2016 - Jun. 2020)**
 	* B.E., Internet of Things Engineering
 	* [Joint programme](https://www.qmul.ac.uk/global/partnerships/jointprogrammes/bupt/) with [Queen Mary University of London](https://www.qmul.ac.uk/)
 
@@ -49,6 +52,10 @@ Internship
 
 Publications
 ======
+* **[PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models](https://arxiv.org/abs/2309.05793)**
+	* Li Chen, Mengyi Zhao, Yiheng Liu, Mingxu Ding, Yangyang Song, **Shizun Wang**, Xu Wang, Hao Yang, Jing Liu, Kang Du, Min Zheng
+ 	* Arxiv Preprint, 2023
+ 	* \[[Paper](https://arxiv.org/pdf/2309.05793.pdf)\] \[[Project](https://photoverse2d.github.io/)\]
 
 * **[SwiftAvatar: Efficient Auto-Creation of Parameterized Stylized Character on Arbitrary Avatar Engines](https://arxiv.org/abs/2301.08153)**
 	* **Shizun Wang**, Weihong Zeng, Xu Wang, Hao Yang, Li Chen, Yi Yuan, Yunzhao Zeng, Min Zheng, Chuang Zhang, Ming Wu
