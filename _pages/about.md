@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D student at the amazing [LV Lab](http://lv-nus.org/) @ [NUS](https://www.nus.edu.sg/) supervised by Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Before joing LV Lab, I completed my B.E and M.S in [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), where I worked in [PRIS](http://www.pris.net.cn/) Lab，under the supervision of Prof. [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang). 
+Hiya! I am currently a first-year Ph.D student at the amazing [LV Lab](http://lv-nus.org/) @ [NUS](https://www.nus.edu.sg/) supervised by Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Before joing LV Lab, I completed my B.E and M.S in [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), where I worked at [PRIS](http://www.pris.net.cn/) Lab，under the supervision of Prof. [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang). 
 
 My research focuses on Computer Vision, espically interested on learning-based visual synthesis.
 
@@ -17,44 +17,12 @@ My research focuses on Computer Vision, espically interested on learning-based v
 
 {% include base_path %}
 
-Education
-======
-* **National University of Posts and Telecommunications, Singapore (Aug. 2023 - Now)**
-	* Ph.D., Electrical & Computer Engineering
-	* Supervisor: [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)
-
-* **Beijing University of Posts and Telecommunications, China (Sep. 2020 - Jun. 2023)**
-	* M.S., Information & Communication Engineering
-	* Supervisor: [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang)
-* **Beijing University of Posts and Telecommunications, China (Sep. 2016 - Jun. 2020)**
-	* B.E., Internet of Things Engineering
-	* [Joint programme](https://www.qmul.ac.uk/global/partnerships/jointprogrammes/bupt/) with [Queen Mary University of London](https://www.qmul.ac.uk/)
-
-Internship
-======
-* **Intel labs China**
-	* 3D Human Motion Capture (Transfer to [3D Athlete Tracking](https://www.intel.cn/content/www/cn/zh/sports/olympic-games/3dat.html))
-	* Image Restoration (Super-resolution, Denoising)
-	* Neural Video Delivery
-
-* **SenseTime**
-	* Deep Image Compression
-	* Image Coding for Machine
-
-* **OPPO Research Institute**
-	* Dynamic neural network
-	* Learn-based Visual Synthesis
-
-* **ByteDance**
-	* Generative models
-	* Avatars
-	* AIGC
 
 Publications
 ======
 * **[PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models](https://arxiv.org/abs/2309.05793)**
-	* Li Chen, Mengyi Zhao, Yiheng Liu, Mingxu Ding, Yangyang Song, **Shizun Wang**, Xu Wang, Hao Yang, Jing Liu, Kang Du, Min Zheng
- 	* Arxiv Preprint, 2023
+	* Li Chen, Mengyi Zhao, Yiheng Liu, Mingxu Ding, Yangyang Song, **Shizun Wang**, Xu Wang, Hao Yang, Jing Liu, Kang Du, Min Zheng    
+ 	* Arxiv Preprint, 2023    
  	* \[[Paper](https://arxiv.org/pdf/2309.05793.pdf)\] \[[Project](https://photoverse2d.github.io/)\]
 
 * **[SwiftAvatar: Efficient Auto-Creation of Parameterized Stylized Character on Arbitrary Avatar Engines](https://arxiv.org/abs/2301.08153)**
@@ -84,3 +52,36 @@ Publications
 	* \[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Overfitting_the_Data_Compact_Neural_Video_Delivery_via_Content-Aware_Feature_ICCV_2021_paper.pdf)\]  \[[Code](https://github.com/Neural-video-delivery/CaFM-Pytorch-ICCV2021)\]
 
 
+Internship
+======
+* **Intel labs China**
+	* 3D Human Motion Capture (Transfer to [3D Athlete Tracking](https://www.intel.cn/content/www/cn/zh/sports/olympic-games/3dat.html))
+	* Image Restoration (Super-resolution, Denoising)
+	* Neural Video Delivery
+
+* **SenseTime**
+	* Deep Image Compression
+	* Image Coding for Machine
+
+* **OPPO Research Institute**
+	* Dynamic neural network
+	* Learn-based Visual Synthesis
+
+* **ByteDance**
+	* Generative models
+	* Avatars
+	* AIGC
+
+
+Education
+======
+* **National University of Posts and Telecommunications, Singapore (Aug. 2023 - Now)**
+	* Ph.D., Electrical & Computer Engineering    
+	* Supervisor: [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)
+
+* **Beijing University of Posts and Telecommunications, China (Sep. 2020 - Jun. 2023)**
+	* M.S., Information & Communication Engineering
+	* Supervisor: [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang)
+* **Beijing University of Posts and Telecommunications, China (Sep. 2016 - Jun. 2020)**
+	* B.E., Internet of Things Engineering
+	* [Joint programme](https://www.qmul.ac.uk/global/partnerships/jointprogrammes/bupt/) with [Queen Mary University of London](https://www.qmul.ac.uk/)
