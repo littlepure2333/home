@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shizun Wang"
+title                    : "Shizun Wang (王诗尊)"
 title_separator          : "-"
 name                     : &name "Shizun Wang"
 description              : &description "Shizun Wang's Home"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shizun Wang"
-  avatar           : "profile.png"
+  name             : "Shizun Wang (王诗尊)"
+  avatar           : "shizun-portarit.jpg"
   bio              : "Ph.D student at LV Lab @ NUS"
   location         : "Singapore"
   employer         :
