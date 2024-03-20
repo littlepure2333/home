@@ -82,7 +82,7 @@ Internship
 
 Education
 ======
-* **National University of Posts and Telecommunications, Singapore (Aug. 2023 - Now)**
+* **National University of Singapore, Singapore (Aug. 2023 - Now)**
 	* Ph.D., Electrical & Computer Engineering    
 	* Supervisor: [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)
 
