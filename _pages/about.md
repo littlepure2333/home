@@ -33,7 +33,7 @@ Publications
  	* \[[Paper](https://arxiv.org/pdf/2309.05793.pdf)\] \[[Project](https://photoverse2d.github.io/)\]
 
 * **[SwiftAvatar: Efficient Auto-Creation of Parameterized Stylized Character on Arbitrary Avatar Engines](https://arxiv.org/abs/2301.08153)**
-	* **Shizun Wang**, Weihong Zeng, Xu Wang, Hao Yang, Li Chen, Yi Yuan, Yunzhao Zeng, Min Zheng, Chuang Zhang, Ming Wu
+	* **Shizun Wang**, Weihong Zeng, Xu Wang, Hao Yang, Li Chen, Yi Yuan, Yunzhao Zeng, Min Zheng, Chuang Zhang, Ming Wu     
 	* AAAI Conference on Artificial Intelligence (**AAAI**), 2023 **(Oral)**
 	* \[[Paper](https://arxiv.org/pdf/2301.08153.pdf)\] 
 
