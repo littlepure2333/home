@@ -29,8 +29,8 @@ Publications
 
 * **[PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models](https://arxiv.org/abs/2309.05793)**     
 	- Li Chen, Mengyi Zhao, Yiheng Liu, Mingxu Ding, Yangyang Song, **Shizun Wang**, Xu Wang, Hao Yang, Jing Liu, Kang Du, Min Zheng     
- 	- Arxiv Preprint, 2023      
- 	- \[[Paper](https://arxiv.org/pdf/2309.05793.pdf)\]  \[[Project](https://photoverse2d.github.io/)\]
+ 	* Arxiv Preprint, 2023      
+ 	* \[[Paper](https://arxiv.org/pdf/2309.05793.pdf)\]  \[[Project](https://photoverse2d.github.io/)\]
 
 * **[SwiftAvatar: Efficient Auto-Creation of Parameterized Stylized Character on Arbitrary Avatar Engines](https://arxiv.org/abs/2301.08153)**     
 	- **Shizun Wang**, Weihong Zeng, Xu Wang, Hao Yang, Li Chen, Yi Yuan, Yunzhao Zeng, Min Zheng, Chuang Zhang, Ming Wu
