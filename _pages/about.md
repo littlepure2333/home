@@ -24,7 +24,7 @@ Publications
 
 * **[MindBridge: A Cross-Subject Brain Decoding Framework](https://arxiv.org/abs/2404.07850)**
 	* **Shizun Wang**, Songhua Liu, Zhenxiong Tan, Xinchao Wang
-	* Computer Vision and Pattern Recognition Conference (**CVPR**), 2024 **Highlight**
+	* Computer Vision and Pattern Recognition Conference (**CVPR**), 2024 **(Highlight)**
  	* \[[Paper](https://arxiv.org/pdf/2404.07850.pdf)\] \[[Project](https://littlepure2333.github.io/MindBridge/)\] \[[Code](https://github.com/littlepure2333/MindBridge)\]
 
 * **[PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models](https://arxiv.org/abs/2309.05793)**
