@@ -23,39 +23,39 @@ Publications
 ======
 
 * **[MindBridge: A Cross-Subject Brain Decoding Framework](https://arxiv.org/abs/2404.07850)**     
-	**Shizun Wang**, Songhua Liu, Zhenxiong Tan, Xinchao Wang
-	> Computer Vision and Pattern Recognition Conference (**CVPR**), 2024 **(Highlight)**      
-	\[[Paper](https://arxiv.org/pdf/2404.07850.pdf)\]  \[[Project](https://littlepure2333.github.io/MindBridge/)\]  \[[Code](https://github.com/littlepure2333/MindBridge)\]
+	- **Shizun Wang**, Songhua Liu, Zhenxiong Tan, Xinchao Wang
+	- Computer Vision and Pattern Recognition Conference (**CVPR**), 2024 **(Highlight)**      
+	- \[[Paper](https://arxiv.org/pdf/2404.07850.pdf)\]  \[[Project](https://littlepure2333.github.io/MindBridge/)\]  \[[Code](https://github.com/littlepure2333/MindBridge)\]
 
 * **[PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models](https://arxiv.org/abs/2309.05793)**     
-	Li Chen, Mengyi Zhao, Yiheng Liu, Mingxu Ding, Yangyang Song, **Shizun Wang**, Xu Wang, Hao Yang, Jing Liu, Kang Du, Min Zheng
- 	> Arxiv Preprint, 2023      
- 	\[[Paper](https://arxiv.org/pdf/2309.05793.pdf)\]  \[[Project](https://photoverse2d.github.io/)\]
+	- Li Chen, Mengyi Zhao, Yiheng Liu, Mingxu Ding, Yangyang Song, **Shizun Wang**, Xu Wang, Hao Yang, Jing Liu, Kang Du, Min Zheng
+ 	- Arxiv Preprint, 2023      
+ 	- \[[Paper](https://arxiv.org/pdf/2309.05793.pdf)\]  \[[Project](https://photoverse2d.github.io/)\]
 
 * **[SwiftAvatar: Efficient Auto-Creation of Parameterized Stylized Character on Arbitrary Avatar Engines](https://arxiv.org/abs/2301.08153)**     
-	**Shizun Wang**, Weihong Zeng, Xu Wang, Hao Yang, Li Chen, Yi Yuan, Yunzhao Zeng, Min Zheng, Chuang Zhang, Ming Wu
-	> AAAI Conference on Artificial Intelligence (**AAAI**), 2023 **(Oral)**      
-	\[[Paper](https://arxiv.org/pdf/2301.08153.pdf)\]
+	- **Shizun Wang**, Weihong Zeng, Xu Wang, Hao Yang, Li Chen, Yi Yuan, Yunzhao Zeng, Min Zheng, Chuang Zhang, Ming Wu
+	- AAAI Conference on Artificial Intelligence (**AAAI**), 2023 **(Oral)**      
+	- \[[Paper](https://arxiv.org/pdf/2301.08153.pdf)\]
 
 * **[Adaptive Patch Exiting for Scalable Single Image Super-Resolution](https://arxiv.org/abs/2203.11589)**     
-	**Shizun Wang**, Jiaming Liu, Kaixin Chen, Xiaoqi Li, Ming Lu, Yandong Guo
-	> European Conference on Computer Vision (**ECCV**), 2022 **(Oral)**      
-	\[[Paper](https://arxiv.org/pdf/2203.11589.pdf)\]  \[[Code](https://github.com/littlepure2333/APE)\]
+	- **Shizun Wang**, Jiaming Liu, Kaixin Chen, Xiaoqi Li, Ming Lu, Yandong Guo
+	- European Conference on Computer Vision (**ECCV**), 2022 **(Oral)**      
+	- \[[Paper](https://arxiv.org/pdf/2203.11589.pdf)\]  \[[Code](https://github.com/littlepure2333/APE)\]
 
 * **[Efficient Meta-Tuning for Content-aware Neural Video Delivery](https://arxiv.org/abs/2207.09691)**     
-	Xiaoqi Li, Jiaming Liu, **Shizun Wang**, Cheng Lyu, Ming Lu, Yurong Chen, Anbang Yao, Yandong Guo, Shanghang Zhang
-	> European Conference on Computer Vision (**ECCV**), 2022      
-	\[[Paper](https://arxiv.org/pdf/2207.09691.pdf)\]  \[[Code](https://github.com/Neural-video-delivery/EMT-Pytorch-ECCV2022)\]
+	- Xiaoqi Li, Jiaming Liu, **Shizun Wang**, Cheng Lyu, Ming Lu, Yurong Chen, Anbang Yao, Yandong Guo, Shanghang Zhang
+	- European Conference on Computer Vision (**ECCV**), 2022      
+	- \[[Paper](https://arxiv.org/pdf/2207.09691.pdf)\]  \[[Code](https://github.com/Neural-video-delivery/EMT-Pytorch-ECCV2022)\]
 
 * **[SamplingAug: On the Importance of Patch Sampling Augmentation for Single Image Super-Resolution](https://arxiv.org/abs/2111.15185)**     
-	**Shizun Wang**, Ming Lu, Kaixin Chen, Jiaming Liu, Xiaoqi Li, Ming Wu
-	> The British Machine Vision Conference (**BMVC**), 2021      
-	\[[Paper](https://arxiv.org/pdf/2111.15185.pdf)\]  \[[Code](https://github.com/littlepure2333/SamplingAug)\]
+	- **Shizun Wang**, Ming Lu, Kaixin Chen, Jiaming Liu, Xiaoqi Li, Ming Wu
+	- The British Machine Vision Conference (**BMVC**), 2021      
+	- \[[Paper](https://arxiv.org/pdf/2111.15185.pdf)\]  \[[Code](https://github.com/littlepure2333/SamplingAug)\]
 
 * **[Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation](https://arxiv.org/abs/2108.08202)**     
-	Jiaming Liu, Ming Lu, Kaixin Chen, Xiaoqi Li, **Shizun Wang**, Zhaoqing Wang, Enhua Wu, Yurong Chen, Chuang Zhang, Ming Wu
-	> International Conference on Computer Vision (**ICCV**), 2021      
-	\[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Overfitting_the_Data_Compact_Neural_Video_Delivery_via_Content-Aware_Feature_ICCV_2021_paper.pdf)\]  \[[Code](https://github.com/Neural-video-delivery/CaFM-Pytorch-ICCV2021)\]
+	- Jiaming Liu, Ming Lu, Kaixin Chen, Xiaoqi Li, **Shizun Wang**, Zhaoqing Wang, Enhua Wu, Yurong Chen, Chuang Zhang, Ming Wu
+	- International Conference on Computer Vision (**ICCV**), 2021      
+	- \[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Overfitting_the_Data_Compact_Neural_Video_Delivery_via_Content-Aware_Feature_ICCV_2021_paper.pdf)\]  \[[Code](https://github.com/Neural-video-delivery/CaFM-Pytorch-ICCV2021)\]
 
 
 Internship
