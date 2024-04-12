@@ -28,7 +28,7 @@ Publications
 	- \[[Paper](https://arxiv.org/pdf/2404.07850.pdf)\]  \[[Project](https://littlepure2333.github.io/MindBridge/)\]  \[[Code](https://github.com/littlepure2333/MindBridge)\]
 
 * **[PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models](https://arxiv.org/abs/2309.05793)**     
-	- Li Chen, Mengyi Zhao, Yiheng Liu, Mingxu Ding, Yangyang Song, **Shizun Wang**, Xu Wang, Hao Yang, Jing Liu, Kang Du, Min Zheng
+	- Li Chen, Mengyi Zhao, Yiheng Liu, Mingxu Ding, Yangyang Song, **Shizun Wang**, Xu Wang, Hao Yang, Jing Liu, Kang Du, Min Zheng     
  	- Arxiv Preprint, 2023      
  	- \[[Paper](https://arxiv.org/pdf/2309.05793.pdf)\]  \[[Project](https://photoverse2d.github.io/)\]
 
