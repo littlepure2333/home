@@ -22,6 +22,11 @@ My research focuses on Computer Vision, with a particular interest in **learning
 Publications
 ======
 
+* **[GFlow: Recovering 4D World from Monocular Video](https://arxiv.org/abs/2405.18426)**     
+  **Shizun Wang**, Xingyi Yang, Qiuhong Shen, Zhenxiang Jiang, Xinchao Wang      
+  Arxiv Preprint, 2024      
+  \[[Paper](https://arxiv.org/pdf/2405.18426)\]  \[[Project](https://littlepure2333.github.io/GFlow/)\]  
+
 * **[MindBridge: A Cross-Subject Brain Decoding Framework](https://arxiv.org/abs/2404.07850)**     
   **Shizun Wang**, Songhua Liu, Zhenxiong Tan, Xinchao Wang     
   Computer Vision and Pattern Recognition Conference (**CVPR**), 2024 **(Highlight)**      
