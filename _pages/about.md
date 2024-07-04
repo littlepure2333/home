@@ -100,4 +100,4 @@ Education
 
 Services
 ======
-Reviewer for CVPR, ECCV, ICCV, AAAI, TIP.
+Reviewer for CVPR, NeurIPS, ECCV, ICCV, AAAI, TIP.
