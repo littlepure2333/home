@@ -24,7 +24,7 @@ Publications
 
 * **[GFlow: Recovering 4D World from Monocular Video](https://arxiv.org/abs/2405.18426)**     
   **Shizun Wang**, Xingyi Yang, Qiuhong Shen, Zhenxiang Jiang, Xinchao Wang      
-  Arxiv Preprint, 2024      
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2025      
   \[[Paper](https://arxiv.org/pdf/2405.18426)\]  \[[Project](https://littlepure2333.github.io/GFlow/)\]  
 
 * **[MindBridge: A Cross-Subject Brain Decoding Framework](https://arxiv.org/abs/2404.07850)**     
