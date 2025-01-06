@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Shizun Wang, currently a first-year Ph.D. student at the amazing [LV Lab](http://lv-nus.org/) @ [NUS](https://www.nus.edu.sg/), supervised by Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Before joining LV Lab, I completed my B.E. and M.S. degrees at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), where I worked at the [PRIS Lab](http://www.pris.net.cn/) under the supervision of Prof. [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang).
 
-My research focuses on Computer Vision, with a particular interest in **learning-based visual content** (image/video/3D) **synthesis** (generation/editing/animating) **from multi-modality inputs** (text/brain signals).
+My research focuses on Computer Vision, with a particular interest in **learning-based visual content** (image/video/3D/4D) **synthesis** (reconstruction/generation/editing/animating) **from multi-modality inputs** (text/brain signals).
 
 
 
