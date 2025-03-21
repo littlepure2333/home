@@ -22,6 +22,11 @@ My research focuses on Computer Vision, with a particular interest in **learning
 Publications
 ======
 
+* **[PE3R: Perception-Efficient 3D Reconstruction](https://arxiv.org/abs/2503.07507)**     
+  Jie Hu, **Shizun Wang**, Xinchao Wang      
+  Arxiv Preprint, 2025      
+  \[[Paper](https://arxiv.org/pdf/2503.07507)\]  \[[Code](https://github.com/hujiecpp/PE3R)\]   \[[Video](https://youtu.be/iFRijE4GQv4)\]   \[[Demo](https://huggingface.co/spaces/hujiecpp/PE3R)\]  
+
 * **[GFlow: Recovering 4D World from Monocular Video](https://arxiv.org/abs/2405.18426)**     
   **Shizun Wang**, Xingyi Yang, Qiuhong Shen, Zhenxiang Jiang, Xinchao Wang      
   AAAI Conference on Artificial Intelligence (**AAAI**), 2025      
@@ -100,4 +105,4 @@ Education
 
 Services
 ======
-Reviewer for CVPR, NeurIPS, ECCV, ICCV, AAAI, TIP.
+Reviewer for CVPR, NeurIPS, ECCV, ICCV, AAAI, ICML, TIP, TMC.
