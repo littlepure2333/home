@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shizun Wang (王诗尊)"
   avatar           : "shizun-portarit.jpg"
-  bio              : "Ph.D student at LV Lab @ NUS"
+  bio              : "Ph.D student at xML Lab @ NUS"
   location         : "Singapore"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "ShizunWang"
+  twitter          : "https://x.com/ShizunWang" # "ShizunWang"
   vine             :
   weibo            :
   xing             :
