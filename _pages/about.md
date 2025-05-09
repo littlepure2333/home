@@ -97,7 +97,7 @@ Education
 
 * **Beijing University of Posts and Telecommunications, China (Sep. 2020 - Jun. 2023)**
 	* M.S., Information & Communication Engineering
-	* Supervisor: [Chuang Zhang](http://www.pris.net.cn/introduction/teacher/zhangchuang)
+	* Supervisor: [Chuang Zhang](https://scholar.google.com/citations?user=mBTL7K8AAAAJ&hl=zh-CN)
 * **Beijing University of Posts and Telecommunications, China (Sep. 2016 - Jun. 2020)**
 	* B.E., Internet of Things Engineering
 	* [Joint programme](https://www.qmul.ac.uk/global/partnerships/jointprogrammes/bupt/) with [Queen Mary University of London](https://www.qmul.ac.uk/)
