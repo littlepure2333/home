@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Shizun Wang, currently a second-year Ph.D. student at the amazing [xML Lab](https://sites.google.com/view/xml-nus) @ [NUS](https://www.nus.edu.sg/), supervised by Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Before joining LV Lab, I completed my B.E. and M.S. degrees at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), where I worked at the [PRIS Lab](http://www.pris.net.cn/) under the supervision of Prof. [Chuang Zhang](https://scholar.google.com/citations?user=mBTL7K8AAAAJ&hl=zh-CN).
+Hi, I'm Shizun Wang, currently a second-year Ph.D. student at [xML Lab](https://sites.google.com/view/xml-nus) @ [NUS](https://www.nus.edu.sg/), supervised by Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Before joining LV Lab, I completed my B.E. and M.S. degrees at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), where I worked at the [PRIS Lab](http://www.pris.net.cn/) under the supervision of Prof. [Chuang Zhang](https://scholar.google.com/citations?user=mBTL7K8AAAAJ&hl=zh-CN).
 
 My research focuses on Computer Vision, with a particular interest in **learning-based visual content** (image/video/3D/4D) **synthesis** (reconstruction/generation/editing/animating) **from multi-modality inputs** (text/brain signals).
 
@@ -21,6 +21,10 @@ My research focuses on Computer Vision, with a particular interest in **learning
 
 Publications
 ======
+* **C4D: 4D Made from 3D through Dual Correspondences**       
+  **Shizun Wang**, Zhenxiang Jiang, Xingyi Yang, Xinchao Wang     
+  International Conference on Computer Vision (**ICCV**), 2025     
+  [Coming soon]
 
 * **[PE3R: Perception-Efficient 3D Reconstruction](https://arxiv.org/abs/2503.07507)**     
   Jie Hu, **Shizun Wang**, Xinchao Wang      
